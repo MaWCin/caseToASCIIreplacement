@@ -213,4 +213,4 @@ function load-replacementData ()
 
 }
 
-Write-host "## Replace Cases v 1.5 #"
+Write-host "## Replace Cases v 1.6 #"
